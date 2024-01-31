@@ -5,7 +5,6 @@
 	"main": "src/index.ts",
 	"repository": "git@github.com:watsuyo/notion-rss-reader.git",
 	"author": "watsuyo <watsuyo.dev@gmail.com>",
-	"private": false,
 	"license": "MIT",
 	"type": "module",
 	"scripts": {
