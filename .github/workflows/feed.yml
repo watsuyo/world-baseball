@@ -20,5 +20,5 @@ jobs:
 
       - name: Update Notion Feed
         run: |
-          curl -o bundle.cjs https://raw.githubusercontent.com/watsuyo/eu-baseball-notion/bundle/dist/bundle.cjs
+          curl -o bundle.cjs https://raw.githubusercontent.com/watsuyo/world-baseball/bundle/dist/bundle.cjs
           node bundle.cjs
