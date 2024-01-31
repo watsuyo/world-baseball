@@ -2,8 +2,8 @@ name: Feed Cron
 
 on:
   push:
-    branches-ignore:
-      - master
+    branches:
+      - '*'
 
 jobs:
   get-feed:
